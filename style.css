@@ -1,0 +1,42 @@
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+}
+
+img {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}
+
+hr.rule {
+    background-color: green;
+    width: 100%;
+    height: 3px;
+}
+.image {
+    border: 2px solid black; 
+    max-width: 100%;
+    height: auto;
+}
+#video {
+    border: 1px solid black;
+}
+.professional {
+    background-color: #b8ce92;
+    padding: 20px;
+}
+
+.personal {
+    background-color: #cbcb8e; 
+    padding: 20px;
+}
